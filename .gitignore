@@ -557,6 +557,9 @@ Icon
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+android/**
+ios/**
+
 # End of https://www.toptal.com/developers/gitignore/api/osx,xcode,android,intellij,node,buck,reactnative
 
 
